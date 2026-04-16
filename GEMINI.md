@@ -3,10 +3,11 @@
 ## Directory Overview
 This directory contains the initial setup for a presentation titled **Fish Industry Aquiculture**. The presentation focuses on the growth of the aquaculture sector, the challenges it faces (such as disease, feed costs, and environmental impact), and the potential for computer vision technologies to provide innovative solutions. It aims to highlight leading companies and technological options for driving sustainable growth in the industry.
 
-The project is structured to use the **reveal-md** framework for creating a web-based presentation from Markdown.
+The project is structured to use the **reveal-md** framework for creating a web-based presentation from a dedicated `slides.md` file.
 
 ## Key Files
-- `README.md`: Contains the project's purpose, a summary of the presentation content, and the source Markdown for the presentation.
+- `README.md`: Contains project documentation and instructions for running the presentation.
+- `slides.md`: The primary source for the presentation content, including custom themes and speaker notes.
 - `GEMINI.md`: This file, providing instructional context for future interactions with this project.
 
 ## Usage
@@ -14,18 +15,18 @@ The contents of this directory are intended to be used as the basis for a presen
 
 ```bash
 # To preview the presentation
-npx reveal-md README.md -w
+npx reveal-md slides.md -w
 
 # To build the static presentation
-npx reveal-md README.md --static dist
+npx reveal-md slides.md --static dist
 ```
 
-The following structure is planned within the Markdown:
-1.  **Title Slide**: Introduction to Fish Industry Aquiculture.
-2.  **Overview**: Summary of the industry's status and the role of computer vision.
-3.  **Current State**: Analysis of the aquaculture sector's challenges.
-4.  **Companies & Technologies**: A summary of leading players (e.g., Company A, B, and C).
-5.  **Growth Options**: Exploration of technologies for industry advancement.
+The presentation is organized in `slides.md` with:
+1.  **Title Slide**: Introduction to Fish Industry Aquaculture.
+2.  **Overview**: Summary of industry status and computer vision's role.
+3.  **Current State**: Challenges (disease, feed, environmental).
+4.  **Companies & Technologies**: Leading players (Company A, B, and C).
+5.  **Growth Options**: Role of computer vision in innovation.
 6.  **Conclusion**: Final thoughts on sustainability and innovation.
 
-Currently, the project is in its early documentation phase. To proceed with the development of the presentation, the `reveal.js` framework and associated HTML/CSS/JS files will need to be integrated into this directory.
+The presentation is ready to be further expanded with detailed content for each company and specific computer vision applications.
