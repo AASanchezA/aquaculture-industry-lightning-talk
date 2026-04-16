@@ -26,7 +26,7 @@ Note: Mention that computer vision is a key enabler for modernizing this sector.
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
   <img src="https://web.archive.org/web/20141217042105im_/http://fishscanproject.com/var/ezwebin_site/storage/images/media/eu-prosjektweb/fishscan3/final-meeting/120514-1-eng-GB/Final-meeting_large.jpg" alt="FishScan Project Team" width="300">
-  <img src="img/rigsetup.png" alt="Underwater Rig Setup" width="180">
+  <img src="img/rigsetup.png" alt="Underwater Rig Setup" width="150">
 </div>
 
 - **Innovation:** Transitioned from manual sampling to **Automated 3D Biomass Estimation**.
@@ -52,8 +52,8 @@ Note: Highlight the critical role of aquaculture as an alternative to wild-caugh
 
 Summary of leading companies and technologies in the space:
 
-- **Tidal**: AI-driven feed optimization and underwater robotics.
 - **Stingray**: AI-guided laser sea lice removal and monitoring.
+- **Tidal**: AI-driven feed optimization and underwater robotics.
 - **OptoScale**: Real-time biomass and welfare monitoring via the Bioscope.
 - **Aquabyte**: AI-powered underwater monitoring and analytics.
 
