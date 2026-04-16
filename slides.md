@@ -6,6 +6,8 @@ transition: convex
 
 # Fish Industry Aquaculture
 
+<!-- .slide: data-background="img/background-title.jpg" data-background-opacity="0.3" -->
+
 The aquaculture industry is one of the fastest-growing sectors in the world, driven by increasing demand for sustainable seafood.
 
 Note: Welcome the audience and introduce the topic of aquaculture growth.
