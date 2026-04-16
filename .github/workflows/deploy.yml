@@ -27,6 +27,7 @@ jobs:
       - name: Build static presentation
         run: |
           npx reveal-md slides.md --static dist
+          cp img/background* dist/img/.
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
