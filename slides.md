@@ -6,7 +6,7 @@ transition: convex
 
 # Fish Industry Aquaculture
 
-<!-- .slide: data-background="img/background-title.jpg" data-background-opacity="0.3" -->
+<!-- .slide: data-background="img/background-title.png" data-background-opacity="0.3" -->
 
 The aquaculture industry is one of the fastest-growing sectors in the world, driven by increasing demand for sustainable seafood.
 
@@ -32,7 +32,7 @@ Note: My work involved building a multi-stage pipeline: Fish Detection → Conto
 
 ## Current State of the Sector
 
-<!-- .slide: data-background="img/background-current-state.jpg" data-background-opacity="0.2" -->
+<!-- .slide: data-background="img/background-current-state.png" data-background-opacity="0.2" -->
 
 - Crucial component for sustainable seafood.
 - Minimizes environmental impact.
@@ -167,7 +167,7 @@ Note: Emphasize that innovation is not just for efficiency but for long-term sur
 
 ## Conclusion
 
-<!-- .slide: data-background="img/background-conclusion.jpg" data-background-opacity="0.2" -->
+<!-- .slide: data-background="img/background-conclusion.png" data-background-opacity="0.2" -->
 
 The fish industry aquaculture sector is at a crossroads where technology like computer vision will be the key to sustainable growth.
 
