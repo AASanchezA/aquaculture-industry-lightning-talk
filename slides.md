@@ -32,6 +32,8 @@ Note: My work involved building a multi-stage pipeline: Fish Detection → Conto
 
 ## Current State of the Sector
 
+<!-- .slide: data-background="img/background-current-state.jpg" data-background-opacity="0.2" -->
+
 - Crucial component for sustainable seafood.
 - Minimizes environmental impact.
 - Faces challenges: disease outbreaks, feed costs, environmental concerns.
