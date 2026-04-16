@@ -133,9 +133,13 @@ Note: The Bioscope hardware is designed to capture tens of thousands of images d
 
 ## Technologies and Options for Growth
 
-- Role of computer vision in addressing challenges.
-- Innovative solutions to drive continued growth.
-- Long-term sustainability.
+<iframe src="https://ourworldindata.org/grapher/aquaculture-farmed-fish-production?tab=map" loading="lazy" style="width: 80%; height: 500px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+
+<small>Source: <a href="https://ourworldindata.org/fish-and-overfishing" target="_blank">Our World in Data</a></small>
+
+- **Role of computer vision:** Addressing challenges of scale and sustainability.
+- **Innovative solutions:** Driving continued, efficient growth.
+- **Long-term impact:** Ensuring the viability of the industry.
 
 Note: Emphasize that innovation is not just for efficiency but for long-term survival.
 
