@@ -14,14 +14,6 @@ Note: Welcome the audience and introduce the topic of aquaculture growth.
 
 ---
 
-## Overview
-
-This presentation summarizes the computer vision technologies used in the industry, providing an overview of key challenges and potential solutions.
-
-Note: Mention that computer vision is a key enabler for modernizing this sector.
-
----
-
 ## My Background: The FishScan Project
 
 <div style="display: flex; align-items: center; justify-content: space-around;">
