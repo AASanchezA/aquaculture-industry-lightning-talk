@@ -19,6 +19,22 @@ Note: Mention that computer vision is a key enabler for modernizing this sector.
 
 ---
 
+## My Background: The FishScan Project
+
+<div style="display: flex; align-items: center; justify-content: space-around;">
+  <img src="https://web.archive.org/web/20141217042105im_/http://fishscanproject.com/var/ezwebin_site/storage/images/media/eu-prosjektweb/fishscan3/final-meeting/120514-1-eng-GB/Final-meeting_large.jpg" alt="FishScan Project Team" width="300">
+  <img src="img/rigsetup.png" alt="Underwater Rig Setup" width="180">
+</div>
+
+- **Innovation:** Transitioned from manual sampling to **Automated 3D Biomass Estimation**.
+- **Sensor Fusion:** Combined **Time-of-Flight (TOF) depth data** with **2D CCD intensity** to solve depth-invariance.
+- **Challenges:** Engineered solutions for articulated deformations, viewpoint variations, and underwater occlusions.
+- **Impact:** Focused on the critical industry need for precise pre-harvest size distribution (essential for **80% of sales**).
+
+Note: My work involved building a multi-stage pipeline: Fish Detection → Contour Extraction → Volume-Biomass Estimation, utilizing Deformable Part Models (DPM) for aquatic species.
+
+---
+
 ## Current State of the Sector
 
 - Crucial component for sustainable seafood.
