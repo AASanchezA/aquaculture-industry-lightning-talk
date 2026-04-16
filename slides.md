@@ -1,5 +1,6 @@
 ---
-theme: solarized
+theme: black
+css: style.css
 ---
 
 # Fish Industry Aquaculture
@@ -49,6 +50,18 @@ Note: These companies represent the forefront of digital transformation in aquac
 - **Key Features:** Automatic sea lice counting, continuous biomass estimation, welfare monitoring.
 
 Note: Aquabyte uses hardware-software integration. Their Hammerhead camera connects to cloud ML to provide actionable insights without manual handling.
+
+---
+
+## Aquabyte: Hammerhead Hardware
+
+<iframe data-src="https://www.aquabyte.ai/categories/our-solution/hardware" width="100%" height="500px"></iframe>
+
+- **The Hammerhead Camera:** Specialized underwater unit.
+- **The Cabinet:** Pen-side unit for cloud connectivity.
+- **The Winch:** Remote repositioning system.
+
+Note: The hardware is designed for extreme underwater conditions, featuring self-cleaning technology to ensure consistent data quality.
 
 ---
 
