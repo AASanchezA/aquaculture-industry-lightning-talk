@@ -26,6 +26,8 @@ Note: Welcome the audience and introduce the topic of aquaculture growth.
 - **Challenges:** Engineered solutions for articulated deformations, viewpoint variations, and underwater occlusions.
 - **Impact:** Focused on the critical industry need for precise pre-harvest size distribution (essential for **80% of sales**).
 
+<a href="web.archive.org/web/20150208200127/http://fishscanproject.com" target="_blank">fishscan project</a>
+
 Note: My work involved building a multi-stage pipeline: Fish Detection → Contour Extraction → Volume-Biomass Estimation, utilizing Deformable Part Models (DPM) for aquatic species.
 
 ---
