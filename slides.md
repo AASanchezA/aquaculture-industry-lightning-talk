@@ -48,8 +48,8 @@ Summary of leading companies and technologies in the space:
 
 - **Stingray**: AI-guided laser sea lice removal and monitoring.
 - **Tidal**: AI-driven feed optimization and underwater robotics.
-- **OptoScale**: Real-time biomass and welfare monitoring via the Bioscope.
 - **Aquabyte**: AI-powered underwater monitoring and analytics.
+- **OptoScale**: Real-time biomass and welfare monitoring via the Bioscope.
 
 Note: These companies represent the forefront of digital transformation in aquaculture.
 
