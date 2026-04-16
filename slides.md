@@ -79,15 +79,21 @@ Note: Stingray takes a direct, active approach to pest control using robotics an
 
 ## Tidal (Alphabet's X)
 
-<video data-autoplay loop muted width="100%" height="auto">
-  <source src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662c17d5b7209e4591a5b1b3_color-fish-trim3-transcode.mp4" type="video/mp4">
-</video>
-
-<iframe data-src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662dceab74811b48b7482b9e_fish-detection-without-fish-bg.svg" width="100%" height="200px"></iframe>
-
-- **Autonomous Feeding:** AI-driven optimization to reduce waste.
-- **Biomass Estimation:** Continuous, real-time growth monitoring.
-- **Sea Lice Detection:** Automated health tracking.
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1.5; text-align: left;">
+    <video data-autoplay loop muted width="100%" height="auto">
+      <source src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662c17d5b7209e4591a5b1b3_color-fish-trim3-transcode.mp4" type="video/mp4">
+    </video>
+    <iframe data-src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662dceab74811b48b7482b9e_fish-detection-without-fish-bg.svg" width="100%" height="200px"></iframe>
+  </div>
+  <div style="flex: 1; padding-left: 20px; font-size: 0.8em; text-align: left;">
+    <ul>
+      <li><strong>Autonomous Feeding:</strong> AI-driven optimization to reduce waste.</li>
+      <li><strong>Biomass Estimation:</strong> Continuous, real-time growth monitoring.</li>
+      <li><strong>Sea Lice Detection:</strong> Automated health tracking.</li>
+    </ul>
+  </div>
+</div>
 
 Note: Tidal was incubated at Alphabet's X and focuses on using advanced robotics and AI to reduce the environmental impact of fish farming through optimized feeding.
 
