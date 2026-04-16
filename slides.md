@@ -36,6 +36,7 @@ Summary of leading companies and technologies in the space:
 - **Aquabyte**: AI-powered underwater monitoring and analytics.
 - **Tidal**: AI-driven feed optimization and underwater robotics.
 - **OptoScale**: Real-time biomass and welfare monitoring via the Bioscope.
+- **Stingray**: AI-guided laser sea lice removal and monitoring.
 
 Note: These companies represent the forefront of digital transformation in aquaculture.
 
@@ -92,6 +93,22 @@ Note: Tidal was incubated at Alphabet's X and focuses on using advanced robotics
 - **Welfare Assessments:** Monitoring respiration and swimming behavior.
 
 Note: The Bioscope hardware is designed to capture tens of thousands of images daily for comprehensive health tracking without manual handling.
+
+---
+
+## Stingray
+
+<video data-autoplay loop muted width="100%" height="400px">
+  <source src="https://stingrayonline.no/assets/bg-large-DDQn_ZKe.mp4" type="video/mp4">
+</video>
+
+<a href="https://www.stingray.no/en/technology/" target="_blank">Discover Stingray Technology</a>
+
+- **Laser Sea Lice Removal:** Identifying parasites in real-time and firing laser pulses to kill them without harming the fish.
+- **Real-time AI:** Stereo camera vision identifies parasites in milliseconds.
+- **24/7 Monitoring:** Tracks biomass and welfare via Stingray Online.
+
+Note: Stingray takes a direct, active approach to pest control using robotics and lasers, shifting from passive monitoring to active intervention.
 
 ---
 
