@@ -133,19 +133,27 @@ Note: The Bioscope hardware is designed to capture tens of thousands of images d
 
 ## Technologies and Options for Growth
 
-<iframe src="https://ourworldindata.org/grapher/aquaculture-farmed-fish-production?tab=map" loading="lazy" style="width: 80%; height: 500px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
-
-<small>Source: <a href="https://ourworldindata.org/fish-and-overfishing" target="_blank">Our World in Data</a></small>
-
-- **Role of computer vision:** Addressing challenges of scale and sustainability.
-- **Innovative solutions:** Driving continued, efficient growth.
-- **Long-term impact:** Ensuring the viability of the industry.
+<div style="display: flex; align-items: center; justify-content: space-between;">
+  <div style="flex: 1.5; text-align: left;">
+    <iframe src="https://ourworldindata.org/grapher/aquaculture-farmed-fish-production?tab=map" loading="lazy" style="width: 100%; height: 500px; border: 0px none;" allow="web-share; clipboard-write"></iframe>
+    <small>Source: <a href="https://ourworldindata.org/fish-and-overfishing" target="_blank">Our World in Data</a></small>
+  </div>
+  <div style="flex: 1; padding-left: 20px; font-size: 0.8em; text-align: left;">
+    <ul>
+      <li><strong>Role of computer vision:</strong> Addressing challenges of scale and sustainability.</li>
+      <li><strong>Innovative solutions:</strong> Driving continued, efficient growth.</li>
+      <li><strong>Long-term impact:</strong> Ensuring the viability of the industry.</li>
+    </ul>
+  </div>
+</div>
 
 Note: Emphasize that innovation is not just for efficiency but for long-term survival.
 
 ---
 
 ## Conclusion
+
+<!-- .slide: data-background="img/background-conclusion.jpg" data-background-opacity="0.2" -->
 
 The fish industry aquaculture sector is at a crossroads where technology like computer vision will be the key to sustainable growth.
 
