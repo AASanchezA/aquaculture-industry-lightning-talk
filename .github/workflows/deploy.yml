@@ -31,3 +31,5 @@ jobs:
         with:
           branch: gh-pages # The branch the action will deploy to
           folder: dist # The folder that the build step outputs to
+        permissions:
+          contents: write
