@@ -46,10 +46,10 @@ Note: Highlight the critical role of aquaculture as an alternative to wild-caugh
 
 Summary of leading companies and technologies in the space:
 
-- **Stingray**: AI-guided laser sea lice removal and monitoring.
-- **Tidal**: AI-driven feed optimization and underwater robotics.
-- **Aquabyte**: AI-powered underwater monitoring and analytics.
-- **OptoScale**: Real-time biomass and welfare monitoring via the Bioscope.
+- [**Stingray**](https://www.stingray.no): AI-guided laser sea lice removal and monitoring.
+- [**Tidal**](https://www.tidalx.ai): AI-driven feed optimization and underwater robotics.
+- [**Aquabyte**](https://www.aquabyte.ai): AI-powered underwater monitoring and analytics.
+- [**OptoScale**](https://optoscale.no): Real-time biomass and welfare monitoring via the Bioscope.
 
 Note: These companies represent the forefront of digital transformation in aquaculture.
 
@@ -57,7 +57,7 @@ Note: These companies represent the forefront of digital transformation in aquac
 
 ## Stingray
 
-<video data-autoplay loop muted width="100%" height="400px">
+<video data-autoplay loop muted width="100%" height="300px">
   <source src="https://stingrayonline.no/assets/bg-large-DDQn_ZKe.mp4" type="video/mp4">
 </video>
 
