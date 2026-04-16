@@ -101,25 +101,28 @@ Note: Tidal was incubated at Alphabet's X and focuses on using advanced robotics
 
 ## Aquabyte
 
-![AI Detection Interface](img/lice-detection-ui.jpg)
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1.5; text-align: left;">
+    <img src="img/lice-detection-ui.jpg" alt="AI Detection Interface" width="100%">
+    <iframe data-src="https://www.aquabyte.ai/categories/our-solution/hardware" width="100%" height="300px"></iframe>
+  </div>
+  <div style="flex: 1; padding-left: 20px; font-size: 0.7em; text-align: left;">
+    <p><strong>Product:</strong> Hammerhead Camera & AI Platform</p>
+    <ul>
+      <li><strong>Technology:</strong> Captures 1M+ images daily, self-cleaning hardware.</li>
+      <li><strong>AI Features:</strong> Sea lice counting, biomass estimation, welfare monitoring.</li>
+      <li><strong>Hardware:</strong> 
+        <ul>
+          <li>Hammerhead Camera: Underwater unit.</li>
+          <li>Cabinet: Pen-side cloud gateway.</li>
+          <li>Winch: Remote repositioning.</li>
+        </ul>
+      </li>
+    </ul>
+  </div>
+</div>
 
-- **Product:** Hammerhead Camera & AI Platform
-- **Technology:** Captures 1M+ images daily, self-cleaning hardware.
-- **Key Features:** Automatic sea lice counting, continuous biomass estimation, welfare monitoring.
-
-Note: Aquabyte uses hardware-software integration. Their Hammerhead camera connects to cloud ML to provide actionable insights without manual handling.
-
----
-
-## Aquabyte: Hammerhead Hardware
-
-<iframe data-src="https://www.aquabyte.ai/categories/our-solution/hardware" width="100%" height="500px"></iframe>
-
-- **The Hammerhead Camera:** Specialized underwater unit.
-- **The Cabinet:** Pen-side unit for cloud connectivity.
-- **The Winch:** Remote repositioning system.
-
-Note: The hardware is designed for extreme underwater conditions, featuring self-cleaning technology to ensure consistent data quality.
+Note: Aquabyte uses hardware-software integration. Their Hammerhead camera connects to cloud ML to provide actionable insights without manual handling. The hardware is designed for extreme underwater conditions with self-cleaning technology.
 
 ---
 
