@@ -1,6 +1,7 @@
 ---
 theme: black
 css: style.css
+transition: convex
 ---
 
 # Fish Industry Aquaculture
@@ -49,12 +50,44 @@ Note: Highlight the critical role of aquaculture as an alternative to wild-caugh
 
 Summary of leading companies and technologies in the space:
 
-- **Aquabyte**: AI-powered underwater monitoring and analytics.
 - **Tidal**: AI-driven feed optimization and underwater robotics.
-- **OptoScale**: Real-time biomass and welfare monitoring via the Bioscope.
 - **Stingray**: AI-guided laser sea lice removal and monitoring.
+- **OptoScale**: Real-time biomass and welfare monitoring via the Bioscope.
+- **Aquabyte**: AI-powered underwater monitoring and analytics.
 
 Note: These companies represent the forefront of digital transformation in aquaculture.
+
+---
+
+## Stingray
+
+<video data-autoplay loop muted width="100%" height="400px">
+  <source src="https://stingrayonline.no/assets/bg-large-DDQn_ZKe.mp4" type="video/mp4">
+</video>
+
+<a href="https://www.stingray.no/en/technology/" target="_blank">Discover Stingray Technology</a>
+
+- **Laser Sea Lice Removal:** Identifying parasites in real-time and firing laser pulses to kill them without harming the fish.
+- **Real-time AI:** Stereo camera vision identifies parasites in milliseconds.
+- **24/7 Monitoring:** Tracks biomass and welfare via Stingray Online.
+
+Note: Stingray takes a direct, active approach to pest control using robotics and lasers, shifting from passive monitoring to active intervention.
+
+---
+
+## Tidal (Alphabet's X)
+
+<video data-autoplay loop muted width="100%" height="auto">
+  <source src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662c17d5b7209e4591a5b1b3_color-fish-trim3-transcode.mp4" type="video/mp4">
+</video>
+
+<iframe data-src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662dceab74811b48b7482b9e_fish-detection-without-fish-bg.svg" width="100%" height="200px"></iframe>
+
+- **Autonomous Feeding:** AI-driven optimization to reduce waste.
+- **Biomass Estimation:** Continuous, real-time growth monitoring.
+- **Sea Lice Detection:** Automated health tracking.
+
+Note: Tidal was incubated at Alphabet's X and focuses on using advanced robotics and AI to reduce the environmental impact of fish farming through optimized feeding.
 
 ---
 
@@ -82,22 +115,6 @@ Note: The hardware is designed for extreme underwater conditions, featuring self
 
 ---
 
-## Tidal (Alphabet's X)
-
-<video data-autoplay loop muted width="100%" height="auto">
-  <source src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662c17d5b7209e4591a5b1b3_color-fish-trim3-transcode.mp4" type="video/mp4">
-</video>
-
-<iframe data-src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662dceab74811b48b7482b9e_fish-detection-without-fish-bg.svg" width="100%" height="200px"></iframe>
-
-- **Autonomous Feeding:** AI-driven optimization to reduce waste.
-- **Biomass Estimation:** Continuous, real-time growth monitoring.
-- **Sea Lice Detection:** Automated health tracking.
-
-Note: Tidal was incubated at Alphabet's X and focuses on using advanced robotics and AI to reduce the environmental impact of fish farming through optimized feeding.
-
----
-
 ## OptoScale
 
 <img src="https://optoscale.no/wp-content/uploads/2021/08/BioScope-Transparent-800px-ref.png" alt="BioScope Hardware" width="300">
@@ -109,22 +126,6 @@ Note: Tidal was incubated at Alphabet's X and focuses on using advanced robotics
 - **Welfare Assessments:** Monitoring respiration and swimming behavior.
 
 Note: The Bioscope hardware is designed to capture tens of thousands of images daily for comprehensive health tracking without manual handling.
-
----
-
-## Stingray
-
-<video data-autoplay loop muted width="100%" height="400px">
-  <source src="https://stingrayonline.no/assets/bg-large-DDQn_ZKe.mp4" type="video/mp4">
-</video>
-
-<a href="https://www.stingray.no/en/technology/" target="_blank">Discover Stingray Technology</a>
-
-- **Laser Sea Lice Removal:** Identifying parasites in real-time and firing laser pulses to kill them without harming the fish.
-- **Real-time AI:** Stereo camera vision identifies parasites in milliseconds.
-- **24/7 Monitoring:** Tracks biomass and welfare via Stingray Online.
-
-Note: Stingray takes a direct, active approach to pest control using robotics and lasers, shifting from passive monitoring to active intervention.
 
 ---
 
