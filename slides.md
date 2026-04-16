@@ -32,11 +32,23 @@ Note: Highlight the critical role of aquaculture as an alternative to wild-caugh
 
 Summary of leading companies and technologies in the space:
 
-- **Company A**: Innovative monitoring solutions.
+- **Aquabyte**: AI-powered underwater monitoring and analytics.
 - **Company B**: AI-driven feed optimization.
 - **Company C**: Disease detection systems.
 
 Note: These companies represent the forefront of digital transformation in aquaculture.
+
+---
+
+## Aquabyte
+
+<iframe data-src="https://www.aquabyte.ai/products/lice" width="100%" height="500px"></iframe>
+
+- **Product:** Hammerhead Camera & AI Platform
+- **Technology:** Captures 1M+ images daily, self-cleaning hardware.
+- **Key Features:** Automatic sea lice counting, continuous biomass estimation, welfare monitoring.
+
+Note: Aquabyte uses hardware-software integration. Their Hammerhead camera connects to cloud ML to provide actionable insights without manual handling.
 
 ---
 
