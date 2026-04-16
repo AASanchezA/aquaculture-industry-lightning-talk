@@ -97,8 +97,10 @@ Note: Tidal was incubated at Alphabet's X and focuses on using advanced robotics
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1.5; text-align: left;">
-    <img src="img/lice-detection-ui.jpg" alt="AI Detection Interface" width="100%">
-    <iframe data-src="https://www.aquabyte.ai/categories/our-solution/hardware" width="100%" height="300px"></iframe>
+    <video data-autoplay loop muted width="100%" height="auto">
+      <source src="https://rsgjqecbrdknpbviteei.supabase.co/storage/v1/object/public/supabase-payload/media/homepage-new-video.mp4" type="video/mp4">
+    </video>
+    <a href="https://www.aquabyte.ai/categories/our-solution" target="_blank">Discover Aquabyte Technology</a>
   </div>
   <div style="flex: 1; padding-left: 20px; font-size: 0.7em; text-align: left;">
     <p><strong>Product:</strong> Hammerhead Camera & AI Platform</p>
@@ -122,9 +124,18 @@ Note: Aquabyte uses hardware-software integration. Their Hammerhead camera conne
 
 ## OptoScale
 
-<img src="https://optoscale.no/wp-content/uploads/2021/08/BioScope-Transparent-800px-ref.png" alt="BioScope Hardware" width="300">
+<div style="display: flex; align-items: flex-start; justify-content: space-between;">
+  <div style="flex: 1.5; text-align: left;">
+    <video data-autoplay loop muted width="100%" height="auto">
+      <source src="https://optoscale.no/wp-content/uploads/2021/08/optoscale_banner_web_v01_1_2.mp4" type="video/mp4">
+    </video>
+  </div>
+  <div style="flex: 1; padding-left: 20px; font-size: 0.7em; text-align: left;">
+    <img src="https://optoscale.no/wp-content/uploads/2021/08/BioScope-Transparent-800px-ref.png" alt="BioScope Hardware" width="300">
+  </div>
+</div>
 
-<a href="https://optoscale.no/wp-content/uploads/2021/08/optoscale_banner_web_v01_1_2.mp4" target="_blank">Watch Bioscope in Action</a>
+<a href="https://optoscale.no/how-it-works/?lang=en" target="_blank">Discover OptoScale Technology</a>
 
 - **Biomass Estimation:** Automating weight and growth tracking.
 - **Sea Lice Counting:** Accurately measuring infestation levels.
