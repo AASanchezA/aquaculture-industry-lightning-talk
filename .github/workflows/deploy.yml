@@ -8,6 +8,8 @@ on:
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -28,8 +30,6 @@ jobs:
 
       - name: Deploy to GitHub Pages
         uses: JamesIves/github-pages-deploy-action@v4
-        permissions:
-          contents: write
         with:
           branch: gh-pages # The branch the action will deploy to
           folder: dist # The folder that the build step outputs to
