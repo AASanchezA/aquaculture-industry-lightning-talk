@@ -59,7 +59,7 @@ Note: These companies represent the forefront of digital transformation in aquac
 
 ## Stingray
 
-<video data-autoplay loop muted width="100%" height="300px">
+<video data-autoplay loop muted controls width="100%" height="300px">
   <source src="https://stingrayonline.no/assets/bg-large-DDQn_ZKe.mp4" type="video/mp4">
 </video>
 
@@ -77,7 +77,7 @@ Note: Stingray takes a direct, active approach to pest control using robotics an
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
   <div style="flex: 1.5; text-align: left;">
-    <video data-autoplay loop muted width="100%" height="auto">
+    <video data-autoplay loop muted controls width="100%" height="auto">
       <source src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662c17d5b7209e4591a5b1b3_color-fish-trim3-transcode.mp4" type="video/mp4">
     </video>
     <iframe data-src="https://cdn.prod.website-files.com/66268f7920153766c84384ba/662dceab74811b48b7482b9e_fish-detection-without-fish-bg.svg" width="100%" height="200px"></iframe>
@@ -99,7 +99,7 @@ Note: Tidal was incubated at Alphabet's X and focuses on using advanced robotics
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1.5; text-align: left;">
-    <video data-autoplay loop muted width="100%" height="auto">
+    <video data-autoplay loop muted controls width="100%" height="auto">
       <source src="https://rsgjqecbrdknpbviteei.supabase.co/storage/v1/object/public/supabase-payload/media/homepage-new-video.mp4" type="video/mp4">
     </video>
     <a href="https://www.aquabyte.ai/categories/our-solution" target="_blank">Discover Aquabyte Technology</a>
@@ -128,7 +128,7 @@ Note: Aquabyte uses hardware-software integration. Their Hammerhead camera conne
 
 <div style="display: flex; align-items: flex-start; justify-content: space-between;">
   <div style="flex: 1.5; text-align: left;">
-    <video data-autoplay loop muted width="100%" height="auto">
+    <video data-autoplay loop muted controls width="100%" height="auto">
       <source src="https://optoscale.no/wp-content/uploads/2021/08/optoscale_banner_web_v01_1_2.mp4" type="video/mp4">
     </video>
   </div>
